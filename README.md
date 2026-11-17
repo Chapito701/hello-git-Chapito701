@@ -1,3 +1,5 @@
+Durante esta práctica aprendí a clonar repositorios, crear y fusionar ramas con merge, y vincular mi proyecto local con GitHub mediante comandos de terminal.
+
 # Hello Git & GitHub🐙
 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
